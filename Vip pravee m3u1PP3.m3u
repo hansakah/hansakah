@@ -1,0 +1,628 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz;https://watch.livecricketsl.xyz/epg/epg.xml.gz;https://aqfadtv.xyz/epg"
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee TV HD
+http://217.20.112.199/zeetvhd/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=160&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",SONY SAB HD
+http://tv.cloudcdn.me:80/live.ts?channelId=260&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",SET HD
+http://tv.cloudcdn.me:80/live.ts?channelId=12356&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",SET
+http://tv.cloudcdn.me:80/live.ts?channelId=194&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",STAR Plus HD
+http://217.20.112.199/starplushd/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",&TV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=140&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Bharat HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=195&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",STAR Maa HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=43458&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Jalsha HD 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/55255|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Maa Gold 
+http://tv.cloudcdn.me:80/live.ts?channelId=43457&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Jalsha Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Vijay HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=43419&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",STAR GOLD HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=196&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Gold 2 
+http://tv.cloudcdn.me:80/live.ts?channelId=33165&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Gold Select HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=197&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Gold Romance 
+http://tv.cloudcdn.me:80/live.ts?channelId=128485&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Gold Romance 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/55224|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Gold Thrills
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/55222|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Pravah HD
+http://tv.cloudcdn.me:80/live.ts?channelId=28128&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee TV 
+http://new.ivue.co:25461/play/live.php?mac=00:1A:79:72:97:3b&stream=697674&extension=ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Cinema HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=213&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Cinema
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/55210|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Anmol Cinema 
+http://tv.cloudcdn.me:80/live.ts?channelId=209&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Anmol 
+http://rhsbjv7k.tvclub.xyz/iptv/DVHP2VB5QXL7UC/6597/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Tamil HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=128481&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Cinemalu HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=43467&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Marathi HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=28132&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Bangla HD
+http://tv.cloudcdn.me:80/live.ts?channelId=120&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Bangla Cinema 
+http://591848232291939708.ofdos.xyz:80/live/te921030/HTgj3p4y9W/939708.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Talkies 
+http://tv.cloudcdn.me:80/live.ts?channelId=28131&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Kannada HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=43536&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Bollywood 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/55212|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Action Cinema 
+http://tv.cloudcdn.me:80/live.ts?channelId=207&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Zest HD
+http://tv.cloudcdn.me:80/live.ts?channelId=29704&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Classic 
+http://tv.cloudcdn.me:80/live.ts?channelId=43379&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Telugu HD 
+http://rhsbjv7k.tvclub.xyz/iptv/MCCX3FZF3HE9W4/6713/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Punjabi 
+http://tv.cloudcdn.me:80/live.ts?channelId=28960&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",ZEE TV HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=217&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zing 
+http://tv.cloudcdn.me:80/live.ts?channelId=219&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Big Magic 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1937|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Marathi HD
+http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Tamil HD 
+http://195.26.87.217:80/live.ts?channelId=43408&uid=12374&deviceMac=00:1A:79:B7:2F:EA|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Kannada 
+http://vo01.mohdtv.com:8880/voby4055/7457362324/1926|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Gujarati 
+http://tv.cloudcdn.me:80/live.ts?channelId=19468&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Cineplex 
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Cineplex Bollywood 
+http://tv.cloudcdn.me:80/live.ts?channelId=62412&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Cineplex Superhits 
+http://tv.cloudcdn.me:80/live.ts?channelId=62413&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Kannada Cinema 
+http://591848232291939127.ofdos.xyz:80/live/te921030/HTgj3p4y9W/939127.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors HD
+http://watchindia.net:8880/live/63332/77616/801.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Rishtey 
+http://tv.cloudcdn.me:80/live.ts?channelId=158&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Bangla HD 
+http://217.20.112.199/colorsbangla/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors Bangla
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1930|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Sony Pal
+http://tv.cloudcdn.me:80/live.ts?channelId=188&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",SONY MAX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",SONY MAX 2
+http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",SONY AATH 
+http://tv.cloudcdn.me:80/live.ts?channelId=44150&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Sony Wah
+http://591848232291939691.ofdos.xyz:80/live/te921030/HTgj3p4y9W/939691.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",SONY SAB
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/55311|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",&Pictures HD
+http://tv.cloudcdn.me:80/live.ts?channelId=139&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Asianet HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43469&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Asianet Movies 
+http://vo01.mohdtv.com:8880/voby4055/7457362324/1946|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Jaya TV 
+http://rhsbjv7k.tvclub.xyz/iptv/MCCX3FZF3HE9W4/6696/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Jaya Max
+http://591848232291932735.ofdos.xyz:80/live/te921030/HTgj3p4y9W/932735.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Sun TV HD
+http://195.26.87.217/live.ts?channelId=43421&uid=7435&deviceMac=00:1A:79:B7:2F:EA|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Sun TV
+http://217.20.112.199/suntv/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Gemini TV 
+http://rhsbjv7k.tvclub.xyz/iptv/MCCX3FZF3HE9W4/6709/index.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Gemini Movies HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=43453&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Surya Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=85498&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Surya TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43486&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",KTV HD
+http://tv.cloudcdn.me:80/live.ts?channelId=43411&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Udaya TV HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=43535&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Sun Life 
+http://mohdtv.com:8880/voby5236/59159316/55251|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Raj TV
+http://tv.cloudcdn.me:80/live.ts?channelId=43417&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Raj Digital Plus 
+http://tv.cloudcdn.me:80/live.ts?channelId=43415&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",DD Tamil 
+http://195.26.87.217:80/live.ts?channelId=43409&uid=12374&deviceMac=00:1A:79:B7:2F:EA|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",DD Punjabi
+http://591848232291937589.ofdos.xyz:80/live/te921030/HTgj3p4y9W/937589.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Kairali TV
+http://591848232291926604.ofdos.xyz:80/live/te921030/HTgj3p4y9W/926604.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",B4U Movies 
+http://tv.cloudcdn.me:80/live.ts?channelId=152&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",B4U Kadak 
+http://tv.cloudcdn.me:80/live.ts?channelId=35383&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",B4U+
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1941|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Aastha
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1952|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Polimer TV
+http://tv.cloudcdn.me:80/live.ts?channelId=85931&uid=14505&deviceMac=00:1A:79:A7:53:75|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Flowers 
+http://tv.cloudcdn.me:80/live.ts?channelId=43473&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Amrita TV
+http://watchindia.net:8880/live/63332/77616/284.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Kaumudy TV 
+http://watchindia.net:8880/live/63332/77616/305.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Kairali TV
+http://watchindia.net:8880/live/63332/77616/307.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Zee Keralam HD
+http://watchindia.net:8880/live/63332/77616/287.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Kappa TV
+http://watchindia.net:8880/live/63332/77616/1762.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",ETV HD
+http://watchindia.net:8880/live/63332/77616/936.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",ETV Plus 
+http://watchindia.net:8880/live/63332/77616/937.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Kalaignar TV
+http://watchindia.net:8880/live/63332/77616/2148.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Colors SUPER 
+http://watchindia.net:8880/live/63332/77616/983.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Suvarna HD 
+http://watchindia.net:8880/live/63332/77616/985.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Suvarna Plus 
+http://watchindia.net:8880/live/63332/77616/984.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="India VIP Praveen Hansaka",Star Bharat HD 
+http://watchindia.net:8880/live/63332/77616/780.ts|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TV1
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1734|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TV2
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1733|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TV3
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1732|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Oasis 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1701|Host=m.zoom.us 
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Rania 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71022|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Vinmeen
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",RUSI
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Aura 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71025|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro QJ
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1728|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro AEC
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1723|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Warna
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1706|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro RIA
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1705|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Rania
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71022|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Al-Hijrah
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71024|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVS 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71148|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",Awesome
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71021|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Premier
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71026|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Prima
+http://586201789812916968.ofd92622.xyz:80/play/Adrian94TG/unVQcXAER7h/916968.ts|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TV Okey 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71060|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",8TV
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1730|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TV9
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1729|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Vaanavil 
+http://591848232291919624.ofdos.xyz:80/live/te921030/HTgj3p4y9W/919624.ts|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Vellithirai
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71100|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Sun TV 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71036|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Sun Music 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71029|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Adithya
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71031|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Sun Life 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856910|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",KTV
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856891|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",ABO Movies Thangathirai 
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Zee Cinema 
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Colors Hindi 
+http://tv.cloudcdn.me:80/live.ts?channelId=161&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Colors Tamil 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71035|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Star Vijay 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71034|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Zee Tamil 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71032|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",IQIYI 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71038|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVB MAGIC 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71044|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVB Classic 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856920|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro AOD HD 311
+
+
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CCM 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71046|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Celestial Movies 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1718|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVB JADE 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71040|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Phoenix Chinese Channel 
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CTI Asia HD
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71042|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",TVB Entertainment News 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71043|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVB Entertainment News 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856921|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVB Xing He
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1714|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVBS Asia  
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71045|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Phoenix Chinese Info News 
+ http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856902|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Phoenix Chinese Channel HD 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71088|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Hua Hee Dai 
+http://mohdtv.com:8880/voby4538/68682698/1725|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Wah Lai Toi
+
+#EXTINF:-1 group-title=" Pravee OTT Tv",CCTV4 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856857|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CCTV4 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856896|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",KBS WORLD  
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31585|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",ONE 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71053|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVN
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/51805|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",K-Plus
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71111|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",NHK World
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/51828|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Hits Movies 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71056|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",BOO
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1697|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",HBO
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1711|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CINEMAX 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71058|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",SHOWCASE 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856905|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",HBO Family
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1707|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",HBO Hits 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71037|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TVN Movies 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71059|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Awani 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1704|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",BERNAMA
+http://vo01.mohdtv.com:8880/voby4055/7457362324/1717|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CGTN 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1708|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CNN 
+http://mohdtv.com:8880/voby4538/68682698/2939|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",BBC News 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71122|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Al Jazeera
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71063|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Sky News 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71064|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CNA 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71065|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CNBC Asia 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71066|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Bloomberg TV 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71067|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",ABC Australia 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71068|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",DW English 
+http://tv.cloudcdn.me:80/live.ts?channelId=72951&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",France24
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/2750|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Sun News 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856912|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Discovery Channel HD
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71071|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Discovery Science 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71073|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Discovery Asia 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856867|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",BBC Earth 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71119|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",History 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31543|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Animal Planet
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31550|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Love Nature 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856893|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Sun Life 
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Tutor TV
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",DMAX 
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Global Trakker
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856878|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",DidikTV KPM
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Ceria 
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",CBeebies
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Cartoon Network 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71084|Host=m.zoom.us
+ #EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Nickelodeon
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856897|Host=m.zoom.us
+#EXTINF:-1 group-title=" Kids",Nickelodeon
+http://tv.cloudcdn.me:80/live.ts?channelId=254&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Nick Jr 
+http://591848232291940591.ofdos.xyz:80/live/te921030/HTgj3p4y9W/940591.ts|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Moonbug 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71061|Host=m.zoom.us
+#EXTINF:-1 group-title=" Kids",Dreamworks 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/60923|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Dreamworks 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856873|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Lifetime HD
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",HITS  
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856885|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",HITS Now
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856871|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",TLC 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856914|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Food Network  
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Asian Food Network 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71134|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Warner TV 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856930|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",AXN
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856843|Host=m.zoom.us
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Kix 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1716|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Crime & Investigation
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",HGTV 
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",DMAX 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856872|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",BBC Lifestyle 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71120|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",MTV Live 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856895|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",SPOTV
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856907|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",beIN SPORTS 
+http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",beIN SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125427&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",beIN SPORTS 3
+http://mohdtv.com:8880/voby5236/59159316/2828|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Eurosport HD
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856875|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",WWE Network 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1698|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Arena
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1703|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Arena 2
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/1696|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Sukan RTM
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/71123|Host=m.zoom.us
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Berita RTM
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Golf Channel 
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Premier Sports 
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Badminton 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856819|Host=m.zoom.us
+
+#EXTINF:-1 group-title=" Astro Go Praveen Hansaka",Astro Cricket 
+http://tv.cloudcdn.me:80/live.ts?channelId=26034&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",Disney Channel 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31547|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",C More Star 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31555|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",C More Series 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31554|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",C More First 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31552|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",C More Hits 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31553|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",Cartoon Network 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31556|Host=m.zoom.us
+#EXTINF:-1 group-title=" Test",Nat Geo Wild 
+http://vo01.mohdtv.com:8880/hdtv40e793351ba2/44664111/31540|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",SONY SPORTS TEN 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",SONY SPORTS TEN 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",SONY SPORTS TEN 3 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",SONY SPORTS TEN 4 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",SONY SPORTS TEN 5 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=105350&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",Star Sports 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",Star Sports 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",Star Sports 3 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=39098&uid=4085&deviceMac=00:1A:79:E2:01:63|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",Star Sports Select 1 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=293&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",Star Sports Select 2 HD
+http://tv.cloudcdn.me:80/live.ts?channelId=298&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:1 group-title="Sports Praveen Hansaka",Star Sports 1 Hindi HD
+http://mohdtv.com:8880/voby5236/59159316/55273|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",PTV sports
+ http://125.209.88.166:45793/BRN/PTVSports.stream/playlist.m3u8|Host=m.zoom.us
+ #EXTINF:-1 group-title="Sports Praveen Hansaka",Ten Cricket
+ http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",Persiana Sports 
+  http://tv.cloudcdn.me:80/live.ts?channelId=128810&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",BEIN SPORTS 1 
+ http://tv.cloudcdn.me:80/live.ts?channelId=102481&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",BEIN SPORTS 2
+http://tv.cloudcdn.me:80/live.ts?channelId=125427&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",BEIN SPORTS 3 
+http://tv.cloudcdn.me:80/live.ts?channelId=125428&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",A Sport
+http://tv.cloudcdn.me:80/live.ts?channelId=45945&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka",Willow Cricket HD
+http://tv.cloudcdn.me:80/live.ts?channelId=302&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka" tvg-logo="https://imgu.rs/i/TNTSports/TNT1.png" tvg-id="btsport1.uk" ,UK | TNT Sports 1
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47850|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka" tvg-logo="https://imgu.rs/i/TNTSports/TNT2.png" tvg-id="bt.sport.2.gb" ,UK | TNT Sports 2
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47851|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka" tvg-logo="https://imgu.rs/i/TNTSports/TNT3.png" tvg-id="bt.sport.3.gb" ,UK | TNT Sports 3
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47852|Host=m.zoom.us
+#EXTINF:-1 group-title="Sports Praveen Hansaka" tvg-logo="https://imgu.rs/i/TNTSports/TNT4.png" tvg-id="2m.maroc.ca" ,UK | TNT Sports 4
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47853|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.png" tvg-id="AnimalPlanet.uk" ,Animal Planet
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47740|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/cc/crime_investigation_us.png" tvg-id="CrimeInvestigation.uk" ,Crime & Investigation
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47763|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-channel-east-us.png" tvg-id="DiscoveryChannel.uk" ,Discovery
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47765|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_history.png" tvg-id="DiscoveryHistory.uk" ,Discovery History
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47766
+#KODIPROP:inputstream.adaptive.stream_headers=Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery-science-europe-us.png" tvg-id="DiscoveryScience.uk" ,Discovery Science
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47767|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_turbo_us.png" tvg-id="DiscoveryTurbo.uk" ,Discovery Turbo
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47768|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com//logo/tv/hh/history_us.png" tvg-id="HistoryChannel.pt" ,History
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47780|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://tlgrm.re/images/investigation-discovery-uk.png" tvg-id="investigationdiscovery.uk" ,Investigation Discovery
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47782|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://tlgrm.re/images/investigation-discovery-plus-uk.png" tvg-id="investigationdiscovery.uk" ,Investigation Discovery +1
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47783|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://tlgrm.re/images/national-geographic-uk.png" tvg-id="natgeowild.uk" ,Nat Geo
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47794|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://tlgrm.re/images/national-geographic-wild-uk.png" tvg-id="natgeowild.uk" ,Nat Geo Wild
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47795|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/qq/quest-uk.png" tvg-id="Quest.uk" ,QUEST
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47804|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-documentaries-uk.png" tvg-id="skydocumentaries.uk" ,Sky Documentaries
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47827|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://tlgrm.re/images/sky-history-2-uk.png" tvg-id="history2.uk" ,Sky History 2
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47828|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-nature-uk.png" tvg-id="skynature.uk" ,Sky Nature
+http://sapphireapp.xyz:8080/Vic1370/1378338577/47830|Host=m.zoom.us
+#EXTINF:-1 group-title="World Entertainment",Food Food 
+http://tv.cloudcdn.me:80/live.ts?channelId=169&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="World Entertainment",NHK World 
+http://mohdtv.com:8880/voby5236/59159316/50121|Host=m.zoom.us
+#EXTINF:-1 group-title="World Entertainment",Travel XP 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946210|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries",Nat Geo Wild 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946196|Host=m.zoom.us
+#EXTINF:-1 group-title="World Entertainment",TLC 
+http://sapphireapp.xyz:8080/Vic1370/1378338577/22463|Host=m.zoom.us
+#EXTINF:-1 group-title="World Entertainment",Food Network 
+http://sapphireapp.xyz:8080/Vic1370/1378338577/23323|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries",Nat Geo
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946195|Host=m.zoom.us
+#EXTINF:-1 group-title="Documentaries",BBC Earth 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946401|Host=m.zoom.us
+#EXTINF:-1 group-title="World Entertainment",HGTV 
+http://sapphireapp.xyz:8080/Vic1370/1378338577/15972|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",SONY PIX HD
+http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=4085&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",Universel TV 
+http://tv.cloudcdn.me:80/live.ts?channelId=125809&uid=5284&deviceMac=00:1A:79:17:C0:71|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",HBO
+http://mohdtv.com:8880/voby5236/59159316/1711|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",HBO 2
+http://mohdtv.com:8880/voby5236/59159316/49263|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",HBO 3
+http://mohdtv.com:8880/voby5236/59159316/49262|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",HBO Family 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856881|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",HBO Hits 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/856882|Host=m.zoom.us
+ #EXTINF:-1 group-title="Movies Super",CINEMAX 
+ http://mohdtv.com:8880/voby4538/68682698/71058|Host=m.zoom.us
+ #EXTINF:-1 group-title="Movies Super",Hits Movies 
+ http://mohdtv.com:8880/voby5236/59159316/71056|Host=m.zoom.us
+ #EXTINF:-1 group-title="Movies Super",Star Movies HD
+http://tv.cloudcdn.me:80/live.ts?channelId=198&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Movies Super",Star Movies Select HD 
+http://tv.cloudcdn.me:80/live.ts?channelId=199&uid=3118&deviceMac=00:1A:79:17:C1:7F&play_token=test|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",Zee Tamil HD 
+http://tv.cloudcdn.me/live/00:1A:79:17:C1:7F/D9CA0D47A1879/43423.m3u8|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",TVN
+http://586201789812910941.ofd92622.xyz:80/play/Adrian94TG/unVQcXAER7h/910941.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv" tvg-logo="" ,Bollywood 
+http://586201789812926600.ofd92622.xyz:80/play/Adrian94TG/unVQcXAER7h/926600.ts|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",B4U Movies 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946400|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",CCTV4
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946403|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",CCTV Entertainment 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946404|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",Kix
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946186|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",Colors HD 
+http://www.localpacks.shop:80/myown/wbQQTCSCp5/9214|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",Colors 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946176|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",Sony Max 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946206|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv",Star Gold 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946207|Host=m.zoom.us
+#EXTINF:-1 group-title="Pravee OTT Tv" tvg-logo="https://i.pinimg.com/originals/9c/4c/05/9c4c05a86c148a2c0abbce7f23062a43.jpg" ,Zee World 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946279|Host=m.zoom.us
+#EXTINF:-1 group-title=" Kids",Nickelodeon 
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/946198|Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="Dora The Explorer" tvg-logo="http://onlytimewilltell.xyz:2086/images/a14d459fdb00bb1481f0e05ff1785485.jpg" group-title="24/7",24/7: Dora The Explorer
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/700494|Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="Duck Dodgers" tvg-logo="http://icons.tw:8080/images/6ae0d284a4cd4665f9c883c3b3af2b97.jpg" group-title="24/7",24/7:Duck Dodgers
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/880879|Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean" tvg-logo="http://onlytimewilltell.xyz:2086/images/462394ceb1800ca7234af84ee9871735.jpg" group-title="24/7",24/7: Mr Bean
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/700769|Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="Mr Bean The Animated Series" tvg-logo="http://icons.tw:8080/images/9cf37edfe19298ab48f76fb93dccf2e9.jpg" group-title="24/7",24/7: Mr Bean The Animated Series
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/881117|Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="Masha and the Bear" tvg-logo="http://icons.tw:8080/images/00a6547f94ff838a3c9854074a6510dc.jpg" group-title="24/7",24/7: Masha and the Bear
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/881086|Host=m.zoom.us
+#EXTINF:-1 tvg-id="" tvg-name="Oggy and the Cockroaches" tvg-logo="http://icons.tw:8080/images/3e766910c3ac830a8d423d36075b6b19.jpg" group-title="24/7",24/7: Oggy and the Cockroaches
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/881176|Host=m.zoom.us
+#EXTINF:-1 group-title=" Entertainment",7Flix
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/857445|Host=m.zoom.us
+#EXTINF:-1 group-title=" Entertainment",ABC
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/857452|Host=m.zoom.us
+#EXTINF:-1 group-title=" Entertainment",ABC Me
+http://monstertv.site:8080/jx2_sale@yahoo.com/TkaGPkLvhqeu/857454|Host=m.zoom.us
